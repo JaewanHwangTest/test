@@ -6,4 +6,5 @@ int main() {
 	int res = a - b;
 	printf("%d", res);
 	return 0;
+
 }
